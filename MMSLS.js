@@ -20,9 +20,9 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=24921597&pid=b8735748a1085621a5e7143337bdadbf&tid=64a3cf186822bf6c6a251490852a0296",
-    "https://www.maimemo.com/share/page?uid=24921597&pid=b8735748a1085621a5e7143337bdadbf&tid=64a3cf186822bf6c6a251490852a0296",
-    "https://www.maimemo.com/share/page?uid=24921597&pid=b8735748a1085621a5e7143337bdadbf&tid=64a3cf186822bf6c6a251490852a0296",
+    "https://www.maimemo.com/share/page?uid=24921597&pid=9c745dd3f3f91b62930ccc72d00f667c&tid=109bd0d39420bcd751c3bb27e35b00f6",
+    "https://www.maimemo.com/share/page?uid=24921597&pid=9c745dd3f3f91b62930ccc72d00f667c&tid=109bd0d39420bcd751c3bb27e35b00f6",
+    "https://www.maimemo.com/share/page?uid=24921597&pid=9c745dd3f3f91b62930ccc72d00f667c&tid=109bd0d39420bcd751c3bb27e35b00f6",
   ]
   /**
    * 生成随机数字
