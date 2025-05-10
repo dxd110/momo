@@ -6,9 +6,9 @@
 
 const MMSLS = [
     
-    "https://www.maimemo.com/page?sid=ffb4b0239673bad39dcd9bb6c7898eb7&uid=24921597&pid=646343427bfef88dd286dff8e0c700ca&tid=8881cae3c8a7ffcd605e33833cd1b3d8&view_time=1746884715&bind_user=0&create_user=0&oauth=wechat_wx6a4680fa1ef1b496&unionid=o6IDit1id3xLmNpe4tYYn4NzNlhM",
-    "https://www.maimemo.com/page?sid=ffb4b0239673bad39dcd9bb6c7898eb7&uid=24921597&pid=646343427bfef88dd286dff8e0c700ca&tid=8881cae3c8a7ffcd605e33833cd1b3d8&view_time=1746884715&bind_user=0&create_user=0&oauth=wechat_wx6a4680fa1ef1b496&unionid=o6IDit1id3xLmNpe4tYYn4NzNlhM",
-    "https://www.maimemo.com/page?sid=ffb4b0239673bad39dcd9bb6c7898eb7&uid=24921597&pid=646343427bfef88dd286dff8e0c700ca&tid=8881cae3c8a7ffcd605e33833cd1b3d8&view_time=1746884715&bind_user=0&create_user=0&oauth=wechat_wx6a4680fa1ef1b496&unionid=o6IDit1id3xLmNpe4tYYn4NzNlhM",
+    "https://www.maimemo.com/share/page?uid=24921597&pid=75c4948ded804df4a33dad40ac3d4c22&tid=cce6c7827d78cfe277c4104dfff3cc8c,
+    "https://www.maimemo.com/share/page?uid=24921597&pid=75c4948ded804df4a33dad40ac3d4c22&tid=cce6c7827d78cfe277c4104dfff3cc8c,
+    "https://www.maimemo.com/share/page?uid=24921597&pid=75c4948ded804df4a33dad40ac3d4c22&tid=cce6c7827d78cfe277c4104dfff3cc8c,
   ]
 =====================以上为范例！=====================
 
@@ -20,7 +20,7 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=24921597&pid=75c4948ded804df4a33dad40ac3d4c22&tid=cce6c7827d78cfe277c4104dfff3cc8c",
+    "https://www.maimemo.com/page?sid=ffb4b0239673bad39dcd9bb6c7898eb7&uid=24921597&pid=646343427bfef88dd286dff8e0c700ca&tid=8881cae3c8a7ffcd605e33833cd1b3d8&view_time=1746884715&bind_user=0&create_user=0&oauth=wechat_wx6a4680fa1ef1b496&unionid=o6IDit1id3xLmNpe4tYYn4NzNlhM",
   ]
   /**
    * 生成随机数字
